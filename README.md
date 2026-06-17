@@ -99,7 +99,6 @@ Research/
 
 **Khairul Anum** — Business Analyst & Market Research Specialist
 
-This project reflects my approach to market research: structured observation, pattern recognition, and translating findings into actionable business recommendations.
+This project reflects my approach to business analysis: structured observation of market behavior, pattern recognition across data points, and translating findings into actionable recommendations for B2B growth strategy and market expansion.
 
 📎 [LinkedIn](https://www.linkedin.com/in/khairulanum) | 📂 [Other Projects](https://github.com/khairulanum91-source)
-**LinkedIn:** linkedin.com/in/khairulanum
